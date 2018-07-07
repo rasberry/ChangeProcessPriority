@@ -133,6 +133,7 @@ namespace ChangeProcessPriority
 				+sb.ToString()
 				+"\n Options:"
 				+"\n  -l  list information about processes"
+				+"\n  -v  verbose mode - show additioal information and warnings"
 				+"\n  -d  daemon mode - continues to watch for new instances of the"
 				+"\n      process(s) and changes the priority for each one"
 			);
